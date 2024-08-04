@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    margin-bottom: 1px;
+}
